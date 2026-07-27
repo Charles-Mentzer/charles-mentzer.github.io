@@ -1,189 +1,600 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Charles E. Mentzer
+  label: Astrophysicist
+  email: Cmentzer@gapp.nthu.edu.tw
+  location: Hsinchu, Taiwan
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Astrophysicist specializing in polycyclic aromatic hydrocarbons (PAHs), interstellar dust, and ices, with a focus on their roles in planet-forming disks, protostellar sources, and merging/quasar galaxies observed with JWST NIRSpec and MIRI/MRS.
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: ""
     - network: GitHub
-      username: example
+      username: ""
     - network: LinkedIn
-      username: example
+      username: ""
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: ""
+    city: Hsinchu
+    region: ""
+    postalCode: ""
+    countryCode: TW
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: University of Missouri -- Columbia
+        location: Columbia, MO, US
+        url: ""
+        area: Astrophysics
+        studyType: Ph.D. Physics
+        start_date: 2019-08
+        end_date: 2025-07
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        courses: ""
+        highlights: []
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: University of Missouri -- Columbia
+        location: Columbia, MO, US
+        url: ""
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+        studyType: Master of Science
+        start_date: 2019-08
+        end_date: 2022-05
+        score: "3.929"
+        courses: ""
+        highlights: []
+
+      - institution: University of South Florida
+        location: Tampa, FL, US
+        url: ""
+        area: "Physics (Minors: Mathematics & Astronomy)"
+        studyType: Bachelor of Science
+        start_date: 2014-08
+        end_date: 2018-05
+        score: ""
+        courses: ""
+        highlights: []
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: National Tsing Hua University
+        position: NTHU Postdoctoral Research Fellow
+        location: Hsinchu, Taiwan
+        start_date: 2025-08
+        end_date: Present
+        summary: Investigations of PAHs, ices, and dust and their roles in the physics of planet-forming disks.
+        highlights: []
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Moberly Area Community College
+        position: Adjunct Faculty
+        location: Moberly, MO, US
+        start_date: 2022-08
+        end_date: 2025-01
+        summary: Taught PHY101 Introduction to Physical Science and PHY162 General Astronomy, including in-person physics lab instruction and curriculum development for both classes.
+        highlights: []
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: University of Missouri LAWS Observatory
+        position: Outreach Coordinator
+        location: Columbia, MO, US
+        start_date: 2021-08
+        end_date: 2025-07
+        summary: General maintenance of equipment and orchestration of community and outreach events through the LAWS Observatory.
+        highlights: []
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Dust and PAH Group, Dr. Aigen Li
+        position: Research Assistant
+        location: Columbia, MO, US
+        start_date: 2020-05
+        end_date: 2025-07
+        summary: Theoretical studies of the interstellar medium (focus on interstellar dust and PAHs), formation of planetary systems (focus on protoplanetary dust disks around young stars), vibrational excitation of PAHs, and investigation of merging galaxies involving AGN, starburst, and quasar host galaxies through JWST NIRSpec and MIRI/MRS.
+        highlights: []
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: University of Missouri Physics Department
+        position: Teaching Assistant
+        location: Columbia, MO, US
+        start_date: 2019-08
+        end_date: 2025-05
+        summary: Ran labs and problem-solving discussions for Physics 1 & 2 with and without calculus; developed and ran ASTRON 1020 - Introduction to Laboratory Astronomy, an introductory course surveying astronomical methods, instruments, observations, and measurement techniques.
+        highlights: []
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Computational Condensed Matter Group, Dr. Inna Ponomareva
+        position: Research Assistant
+        location: Tampa, FL, US
+        start_date: 2018-08
+        end_date: 2019-05
+        summary: "Conducted Molecular Dynamics simulations of ferroelectric relaxor Ba(Ti1-x,Zrx)O3 using supercomputer facilities. [http://shell.cas.usf.edu/~iponomar/index.html]"
+        highlights: []
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Laboratory Development, Dr. Alexander McCormick
+        position: Curriculum Development
+        location: Tampa, FL, US
+        start_date: 2017-12
+        end_date: 2018-05
+        summary: Utilized circuitry and radio astronomy to detect radiation from the Sun to create and implement an exercise for upper-level astronomy students.
+        highlights: []
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Planetary Science Group, Dr. Maria Womack
+        position: Research Assistant
+        location: Tampa, FL, US
+        start_date: 2017-06
+        end_date: 2018-05
+        summary: "Researched the visual brightness behavior of Comet C/1995 O1 (Hale-Bopp), including analyzing calibrations and statistics, calculating dust and total CO production models, and submitting results to the NASA archive. [https://www.mariawomack.com/]"
+        highlights: []
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "JWST Edge-on Disk Ice (JEDIce): An Analysis of PAH Signatures in Edge-on Class II T Tauri Disks"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Charles Mentzer
+          - Daniel Harsono
+          - Jennifer Bergner
+          - Jennifer Noble
+          - Emmanuel Dartois
+          - Zhi-Yun Li
+          - Korash Assani
+          - Lukas Welzel
+          - Mayank Narang
+          - Julia Santos
+          - Nicole Arulanantham
+          - Klaus Pontoppidan
+          - Maria Drozdovskaya
+          - Melissa McClure
+          - Karin Öberg
+          - Yao-Lun Yang
+          - Will Thompson
+          - Elizabeth Yunerman
+          - Aditya Arabhavi
+          - Alice Booth
+        publisher: In Prep
+        releaseDate: ""
+        url: ""
+        summary: ""
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Widespread Detection of Aromatic and Aliphatic Emission in the Dual Quasar J0749+2255 at Cosmic Noon
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - C. E. Mentzer
+          - Aigen Li
+          - X. J. Yang
+        publisher: The Astrophysical Journal Letters, Volume 1005, Issue 2, id.L38, 10 pp.
+        releaseDate: 2026-07
+        url: https://arxiv.org/abs/2607.03913
+        summary: ""
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Phase Evolution in Ba(Ti1-x,Zrx)O3 Ferroelectric Relaxor from Atomistic Simulations"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - C. Mentzer
+          - S. Lisenkov
+          - Z. G. Fthenakis
+          - I. Ponomareva
+        publisher: Phys. Rev. B 99, 064111
+        releaseDate: 2019-02-25
+        url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.064111
+        summary: ""
+
+      - title: "JWST Edge-on Disk Ice (JEDIce): Vibrationally hot, rotationally cold H2 in the outer disk of Oph 163131 non-thermally excited by UV and cosmic rays"
+        authors:
+          - Korash Assani
+          - Zhi-Yun Li
+          - Jennifer B. Bergner
+          - David A. Neufeld
+          - Daniel Harsono
+          - Maria N. Drozdovskaya
+          - Marco Padovani
+          - Emmanuel Dartois
+          - Jennifer A. Noble
+          - Nicole Arulanantham
+          - Alice S. Booth
+          - Yao-Lun Yang
+          - Mayank Narang
+          - Will E. Thompson
+          - Elizabeth Yunerman
+          - Karin I. Öberg
+          - Julia C. Santos
+          - Charles Mentzer
+          - Jon P. Ramsey
+          - Lukas Welzel
+          - Klaus M. Pontoppidan
+          - Melissa McClure
+        publisher: ""
+        releaseDate: 2026-07
+        url: https://arxiv.org/abs/2607.09407
+        summary: ""
+
+      - title: "JWST Edge-on Disk Ice (JEDIce): Program overview and ice survey results"
+        authors:
+          - Jennifer B. Bergner
+          - Nicole Arulanantham
+          - Emmanuel Dartois
+          - Maria N. Drozdovskaya
+          - Daniel Harsono
+          - Melissa McClure
+          - Jennifer A. Noble
+          - Karin I. Öberg
+          - Klaus M. Pontoppidan
+          - Yao-Lun Yang
+          - Korash Assani
+          - Zhi-Yun Li
+          - Julia C. Santos
+          - Will E. Thompson
+          - Lukas Welzel
+          - Elizabeth S. Yunerman
+          - Aditya M. Arabhavi
+          - Alice S. Booth
+          - Charles Mentzer
+          - Mayank Narang
+          - Thomas Henning
+          - Inga Kamp
+          - Giulia Perotti
+          - Alice Somigliana
+        publisher: The Astrophysical Journal, Volume 1002, Issue 1, id.17, 18 pp.
+        releaseDate: 2026-03
+        url: https://arxiv.org/abs/2603.18163
+        summary: ""
+
+      - title: The Visual Lightcurve of Comet C/1995 O1 (Hale-Bopp) from 1995 to 1999
+        authors:
+          - M. Womack
+          - O. Curtis
+          - D. A. Rabson
+          - O. Harrington Pinto
+          - K. Wierzchos
+          - S. Cruz Gonzalez
+          - G. Sarid
+          - C. Mentzer
+          - N. Lastra
+          - N. Pichette
+          - N. Ruffini
+          - T. Cox
+          - I. Rivera
+          - A. Micciche
+          - C. Jackson
+          - A. Homich
+          - A. Tollison
+          - S. Reed
+          - J. Zilka
+          - B. Henning
+          - M. Spinar
+          - S. Rosslyn Escoto
+          - T. Erdahl
+          - Marcel P. Goldschen-Ohm
+          - W. T. Uhl
+        publisher: The Planetary Science Journal, Volume 2, Issue 1, id.17, 16 pp.
+        releaseDate: 2021-02
+        url: https://ui.adsabs.harvard.edu/abs/2021PSJ.....2...17W/abstract
+        summary: ""
+
+    "Advanced Manuscripts Awaiting Submission":
+      - title: On the Aliphatic Contents of PAHs in VV 114 as Revealed by JWST/NIRSpec
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+        publisher: ""
+        releaseDate: ""
+        url: ""
+        summary: ""
+
+      - title: Modelling the PAH Emission in VV 114
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+        publisher: ""
+        releaseDate: ""
+        url: ""
+        summary: ""
+
+      - title: "Red Stars over PAHs: Excitation of PAH Emission in UV-Poor Environments"
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+        publisher: ""
+        releaseDate: ""
+        url: ""
+        summary: ""
+
+      - title: Spatially Resolved PAH Emission in the Protoplanetary Disk around HD 97048
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+          - Gidi Yoffe
+          - Roy Van Boekel
+          - Thomas Henning
+          - Koen Maaskant
+          - L.B.F.M. Waters
+        publisher: ""
+        releaseDate: ""
+        url: ""
+        summary: ""
+
+      - title: Spatially Resolved PAH Emission in the Protoplanetary Disk around HD 169142
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+        publisher: ""
+        releaseDate: ""
+        url: ""
+        summary: ""
+
+      - title: PAH Emission in the Circumstellar Envelopes around R Coronae Borealis Stars
+        authors:
+          - K.J. Li
+          - C. Mentzer
+          - A. Li
+        publisher: ""
+        releaseDate: ""
+        url: ""
+        summary: ""
+
+    Conferences:
+      - title: "JWST Edge-on Disk Ice (JEDIce): An analysis of PAH signatures within the disks"
+        event: Exploring the aromatic universe in the JWST era
+        location: London, Canada
+        date: 2026-07
+        type: Contributed Oral Presentation
+        authors:
+          - Charles Mentzer
+          - Daniel Harsono
+          - Jennifer Bergner
+          - Jennifer Noble
+          - Emmanuel Dartois
+          - Zhi-Yun Li
+          - Korash Assani
+          - Lukas Welzel
+          - Mayank Narang
+          - Julia Santos
+          - Nicole Arulanantham
+          - Klaus Pontoppidan
+          - Maria Drozdovskaya
+          - Melissa McClure
+          - Karin Öberg
+          - Yao-Lun Yang
+          - Will Thompson
+          - Elizabeth Yunerman
+          - Aditya Arabhavi
+          - Alice Booth
+        url: ""
+
+      - title: "JWST Edge-on Disk Ice (JEDIce): An analysis of PAH signatures within the disks"
+        event: The Astronomical Society of the Republic of China (Taiwan)
+        location: Taiwan
+        date: 2026-05
+        type: Contributed Oral Presentation
+        authors:
+          - Charles Mentzer
+          - Daniel Harsono
+          - Jennifer Bergner
+          - Jennifer Noble
+          - Emmanuel Dartois
+          - Zhi-Yun Li
+          - Korash Assani
+          - Lukas Welzel
+          - Mayank Narang
+          - Julia Santos
+          - Nicole Arulanantham
+          - Klaus Pontoppidan
+          - Maria Drozdovskaya
+          - Melissa McClure
+          - Karin Öberg
+          - Yao-Lun Yang
+          - Will Thompson
+          - Elizabeth Yunerman
+          - Aditya Arabhavi
+          - Alice Booth
+        url: ""
+
+      - title: "Tracing the Missing Sulfur and Deuterium: The Role of Modified PAHs in the Interstellar Medium"
+        event: Annual Meeting of the Physical Society of Taiwan
+        location: Taiwan
+        date: 2026-01
+        type: Contributed Oral Presentation
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+          - X. J. Yang
+        url: ""
+
+      - title: Aromatics in Merging Galaxies Involving Active Galactic Nuclei and Starburst Cores as Probed by the James Webb Space Telescope
+        event: "Laboratory Astrophysics Division special session \"Contributions to JWST Studies of Star Formation and the Interstellar Medium\" at American Astronomical Society"
+        location: National Harbor, Maryland, US
+        date: 2025-01
+        type: Contributed Oral Presentation
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+        url: ""
+
+      - title: Aromatics in Merging Galaxies Involving Active Galactic Nuclei and Starburst Cores as Probed by the James Webb Space Telescope
+        event: The 14th meeting on Cosmic Dust
+        location: Nagoya, Japan
+        date: 2024-08
+        type: Contributed Oral Presentation
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+        url: https://www.cps-jp.org/~dust/Program_XIV_files/dust14-d4_02.pdf
+
+      - title: Red Stars over PAHs
+        event: The 13th meeting on Cosmic Dust
+        location: Kitakyushu, Japan
+        date: 2023-08
+        type: Contributed Oral Presentation
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+        url: https://www.cps-jp.org/~dust/Program_XIII_files/dust13-d2-07.pdf
+
+      - title: Infrared Emission Spectra of R Coronae Borealis Stars
+        event: The 13th meeting on Cosmic Dust
+        location: Kitakyushu, Japan
+        date: 2023-08
+        type: Contributed Oral Presentation
+        authors:
+          - Aigen Li
+          - J.R. Lin
+          - K.J. Li
+          - C.E. Mentzer
+          - W.Y. Cui
+          - J.R. Shi
+        url: https://www.cps-jp.org/~dust/Program_XIII_files/dust13-d2-06.pdf
+
+      - title: Spatially Resolved PAH Emission in the Protoplanetary Disk around HD 97048
+        event: American Astronomical Society
+        location: Pasadena, California, US
+        date: 2022-06
+        type: Contributed Oral Presentation
+        authors:
+          - Charles Mentzer
+          - Aigen Li
+          - Gidi Yoffe
+          - Roy Van Boekel
+          - Thomas Henning
+          - Koen Maaskant
+          - L.B.F.M. Waters
+        url: https://submissions.mirasmart.com/AAS240/Itinerary/PresentationDetail.aspx?evdid=11
+
+      - title: "Phase Evolution in Ba(Ti1-x,Zrx)O3 Ferroelectric Relaxor from Atomistic Simulations"
+        event: Fundamental Physics of Ferroelectrics and Related Materials 2019
+        location: Tampa, Florida, US
+        date: 2019
+        type: Contributed Oral Presentation
+        authors:
+          - C. Mentzer
+          - S. Lisenkov
+          - Z. G. Fthenakis
+          - I. Ponomareva
+        url: https://www.materialsbydesign.org/schedule2019
+
+      - title: Hale-Bopp Visual Lightcurve
+        event: American Astronomical Society October Meeting
+        location: Provo, Utah, US
+        date: 2017
+        type: Interactive Display
+        authors:
+          - Maria Womack
+          - A. Curtis
+          - N. Lastra
+          - O. Harrington Pinto
+          - D. A. Rabson
+          - K. Wierzchos
+          - T. Cox
+          - I. Rivera
+          - C. Mentzer
+          - N. Ruffini
+          - C. Jackson
+          - A. Micciche
+        url: https://tinyurl.com/y9qfhl5a
+
+    Proposals:
+      - title: "PAH Emission in the High-Latitude Translucent Cloud towards HD 210121: A sightline with Exceedingly Anomalous Ultraviolet Interstellar Extinction"
+        program: JWST Cycle 5 Proposal 10949 (Unsuccessful)
+        role: Principal Investigator
+
+      - title: "Moons of Mystery: Decoding the Aromatic and Aliphatic Organic Compositions of Phoebe, Hyperion, and Iapetus"
+        program: JWST Cycle 5 Proposal 10960 (Unsuccessful)
+        role: Principal Investigator
+
+      - title: "Red Stars over PAHs: Hunting for PAH Emission in vdB 135, a Reflection Nebula Devoid of Ultraviolet Radiation"
+        program: JWST Cycle 5 Proposal 10308 (Unsuccessful)
+        role: Co-Principal Investigator
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Radiative Transfer
+        level: ""
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "RADMC3D"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: JWST Data Reduction
+        level: ""
+        icon: fa-solid fa-satellite
+        keywords: "Uncalibrated IFU NIRSpec & MIRI/MRS data reduction"
 
-      - name: English
-        summary: "Fluent"
+      - name: Bayesian Model Fitting
+        level: ""
+        icon: fa-solid fa-chart-line
+        keywords: "PAHFIT (IDL and Python), BAGPIPES"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming & Software
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, Fortran 90/95, Shell Scripting, Excel, MS Suite, Pyplot, Gnuplot, Unix-based & Windows Operating Systems"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Computational & Mathematical Methods
+        level: ""
+        icon: fa-solid fa-calculator
+        keywords: "Neural Networks, Partial/Ordinary Differential Equations, Linear Algebra, Numerical Methods, Mathematical Modeling of Physical Systems, Statistical Analysis"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Hardware
+        level: ""
+        icon: fa-solid fa-microchip
+        keywords: "Component level computer construction, repair, update, and troubleshooting"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    "Professional Societies":
+      - name: Physics and Astronomy Graduate Student Association
+        summary: "2019-2025 (Vice-President: 2021-2023)"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Sigma Pi Sigma National Physics Honor Society
+        summary: "2018-Present"
+
+      - name: Society for Physics Students
+        summary: "2014-2019"
+
+    Awards:
+      - title: M. Stewart Scholarship
+        authors: []
+        date: 2020
+        awarder: ""
+        url: ""
+        summary: ""
+
+      - title: Newell S. Gingrich Physics & Astronomy Endowment
+        authors: []
+        date: 2021
+        awarder: ""
+        url: ""
+        summary: ""
+
+      - title: Rose Marie Dishman Endowed Scholarship in Physics
+        authors: []
+        date: 2022
+        awarder: ""
+        url: ""
+        summary: ""
+
+      - title: Eli Stuart Haynes & Nola Anderson Haynes Scholarship
+        authors: []
+        date: 2023
+        awarder: ""
+        url: ""
+        summary: ""
+
+      - title: Harry E. Hammond Teaching Assistant Award
+        authors: []
+        date: "2022 / 2023"
+        awarder: ""
+        url: ""
+        summary: ""
+
+      - title: Carl & Brynn Anderson Travel Award
+        authors: []
+        date: 2023
+        awarder: ""
+        url: ""
+        summary: ""
+
+      - title: NTHU Postdoctoral Research Fellow
+        authors: []
+        date: "2025-2026"
+        awarder: NTHU
+        url: ""
+        summary: ""
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Daniel Harsono
+        icon: fa-solid fa-envelope
+        reference: "Assistant Professor. dharsono@gapp.nthu.edu.tw"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Aigen Li
+        icon: fa-solid fa-envelope
+        reference: "Curators' Distinguished Professor of Astrophysics. lia@missouri.edu [http://web.missouri.edu/~lia/]"
+
+      - name: Dr. Ingrid Mann
+        icon: fa-solid fa-envelope
+        reference: "Professor of Space Physics. ingrid.b.mann@uit.no"
