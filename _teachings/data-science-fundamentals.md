@@ -1,12 +1,7 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
+title: PHY 101 Foundations of Physical Science
+description: The course provides a study of basic concepts of physics, chemistry, astronomy, geology, and meteorology and their interrelation in the physical world. This course includes a laboratory component and is intended for non-science majors.
 course_id: data-science-fundamentals
 schedule:
   - week: 1
@@ -81,17 +76,12 @@ This course provides a comprehensive introduction to data science principles and
 
 ## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+Prerequisite/Co-requisite:  Eligible placement score for MTH140, MTH142, MTH160 or higher or concurrent enrollment in MTH095 or any math corequisite.
 
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+Text(s):           
+Title: An Introduction to Physical Science
+Author: James Shipman, Jerry D. Wilson, Charles A. Higgins, Bo Lou 
+Edition: 15th Edition
+Publisher: Cengage
