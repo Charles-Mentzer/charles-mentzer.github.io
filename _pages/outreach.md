@@ -36,7 +36,7 @@ I helped organize a public partial solar eclipse viewing event on campus, hosted
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <p class="text-center">Flyer I led a team to design to advertise</p>
-        {% include figure.liquid path="assets/img/eclipse/2023_Oct14EclipsePoster.jpg" title="Flyer I led a team to design to advertise" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/laws/2023_Oct14EclipsePoster.jpg" title="Flyer I led a team to design to advertise" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
